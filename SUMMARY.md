@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 
-## HTMl
+## HTML
 
 ## CSS
 
