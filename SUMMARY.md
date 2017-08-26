@@ -8,5 +8,5 @@
 
 ## CSS
 
-* [选择器](css-selectors.md)
+* [选择器](CSS-selectors.md)
 
