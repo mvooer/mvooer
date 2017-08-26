@@ -8,11 +8,5 @@
 
 ## CSS
 
-* [test.md](testmd.md)
-
-## past2
-
-## partpart
-
-## partpart
+* [选择器](testmd.md)
 
