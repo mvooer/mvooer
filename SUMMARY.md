@@ -12,8 +12,6 @@
 
 ## CSS
 
-* [selectors](CSS-selectors.md)
-
 ## IDE
 
 * [WebStorm](ide/webstorm.md)
