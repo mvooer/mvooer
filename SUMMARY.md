@@ -13,8 +13,5 @@
 ## CSS
 
 * [Selectors](css/selectors.md)
-
-## IDE
-
-* [WebStorm](ide/webstorm.md)
+* [Flex Layout](css/flex-layout.md)
 
